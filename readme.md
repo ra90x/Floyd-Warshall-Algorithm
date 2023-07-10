@@ -22,6 +22,12 @@ The Floyd Warshall algorithm uses a dynamic programming approach to calculate th
 5. Call the `floyd_warshall` method on the algorithm object, passing your graph as input.
 6. Retrieve the computed shortest distances or perform other operations based on your requirements.
 
+## Directory Hierarchy
+
+- `main.py` - contains the main function to run the application. It also contains a Performance test at the end of this file.
+- `app.py` - conatins all the functions that contain application logic.
+- `unit_tests.py` - contains all the unit tests to check the quality of code.
+
 ```python
 # Example usage in Python
 
